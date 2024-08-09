@@ -14,9 +14,7 @@ prerequisites
 
 2. Open the Project in CodeSpace on github 
 
-3. Create vitrual development environment and download all requirements 
-
-4. Download requirements & visual code extentions
+3. Create vitrual development environment, download all requirements & extentions 
 
     You may need to install the following extentions in Visual Studio Code: 
     (VS Code will usually notify you when an extention needs to be installed)
