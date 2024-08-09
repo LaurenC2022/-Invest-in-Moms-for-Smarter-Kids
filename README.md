@@ -21,10 +21,12 @@ prerequisites
     You may need to install the following extentions in Visual Studio Code: 
     (VS Code will usually notify you when an extention needs to be installed)
 
-    a) Jupyter Notebook 
+    a) Jupyter Notebook
+    
     b) Python Kernel for Jupyter Notebook 
 
-    Install requirements: 
+    Install requirements:
+   
     a) identify and install nessisary requirements 
 
 4) open the visual_system.ipynb file 
