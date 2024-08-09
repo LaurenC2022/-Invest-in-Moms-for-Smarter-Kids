@@ -38,7 +38,7 @@ prerequisites
 
 5) Select to Run all blocks 
 
-6) Enjoy exploring the Data! 
+6) use case: enjoy exploring the Data and using the data and/or visuals for school reports or blog articles 
 
 ## Continuious Development 
 
