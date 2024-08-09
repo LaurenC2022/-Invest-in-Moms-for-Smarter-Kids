@@ -16,18 +16,22 @@ prerequisites
 
 2. Open the Project in CodeSpace on github 
 
-3. Create vitrual development environment, download all requirements & extentions 
+3. Download all requirements & extentions 
 
     You may need to install the following extentions in Visual Studio Code: 
     (VS Code will usually notify you when an extention needs to be installed)
 
-    a) Jupyter Notebook
+    a) Jupyter
     
-    b) Python Kernel for Jupyter Notebook 
+    b) Python
+
+   Select JupyterNotebook Kernel 
+
+   c) Python Jupyter Notebook Kernel
 
     Install requirements:
    
-    a) identify and install nessisary requirements 
+    a) identify and install all nessisary requirements as seen in error message
 
 4) open the visual_system.ipynb file 
 
