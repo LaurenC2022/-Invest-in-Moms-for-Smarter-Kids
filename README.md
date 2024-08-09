@@ -41,10 +41,5 @@ prerequisites
 
 ## Continuous Development 
 
-1. polish JupyterNotebook file 
-    a. fix types and unnessisary information 
-    b. include Idiom Explanation for each idiom 
-2. Create writeup as specified in instructions 
-5. Record project 
-6. submit project 
-7. add project to portfolio 
+1. Fix typos
+2. Add project to portfolio 
