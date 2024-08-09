@@ -7,6 +7,8 @@ Women’s education is under valued in society. I am conducting a social impact 
 prerequisites 
 
 - create GitHub account 
+- cloning and forking github repositories 
+- basic understanding of how to code in any langugage 
 
 ### Steps to Use 
 
@@ -23,14 +25,7 @@ prerequisites
     b) Python Kernel for Jupyter Notebook 
 
     Install requirements: 
-    a) To create local virtual environment in current directory named "nameHere"
-        $python3 -m venv venv
-
-    b) To activate new environment
-        $. venv/bin/activate
-
-    c) To install the packages saved to your requirements file from the previous lab. Be sure to include the correct path to where the requirements are located 
-        $pip install -r ./requirements.txt
+    a) identify and install nessisary requirements 
 
 4) open the visual_system.ipynb file 
 
