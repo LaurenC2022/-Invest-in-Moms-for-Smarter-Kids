@@ -35,7 +35,7 @@ prerequisites
 
 6) use case: enjoy exploring the Data and using the data and/or visuals for school reports or blog articles 
 
-## Continuious Development 
+## Continuous Development 
 
 1. polish JupyterNotebook file 
     a. fix types and unnessisary information 
